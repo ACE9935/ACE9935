@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Anas El Mouden
+
+👨🏻‍💻 Full-stack web developer & computer science student passionate about building scalable and interactive web apps.
+
+---
+
 # 👨🏻‍💻 About Me
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.  
@@ -35,4 +41,5 @@
 - 📧 [anaselmouden99@gmail.com](mailto:anaselmouden99@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anas-el-mouden-20a246229/)  
 - 🌐 [Portfolio](https://anas-elmouden-portfolio.vercel.app/)
+
 
